@@ -1,0 +1,10 @@
+#woocommerce-product-data {
+    ul.wc-tabs {
+        li.slp_locations_options {        
+            a:before {
+                content: "\f231";
+                font-family: Dashicons;
+            }
+        }
+    }
+}
